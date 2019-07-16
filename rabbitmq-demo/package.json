@@ -13,8 +13,5 @@
     "amqp": "^0.2.7",
     "amqplib": "^0.5.3"
   },
-  "devDependencies": {
-    "eslint": "^6.0.1",
-    "eslint-config-strongloop": "^2.1.0"
-  }
+  "devDependencies": {}
 }
