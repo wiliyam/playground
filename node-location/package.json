@@ -1,18 +1,15 @@
 {
-  "name": "rabbitmq-demo",
+  "name": "location",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "airbnb-style": "^2.0.0",
-    "amqp": "^0.2.7",
-    "amqplib": "^0.5.3"
-  },
-  "devDependencies": {}
+    "node-static": "^0.7.11",
+    "socket.io": "^2.2.0"
+  }
 }
